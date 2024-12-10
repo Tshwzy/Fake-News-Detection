@@ -53,19 +53,19 @@ Upload your dataset or link the dataset path as required in the notebook.
 Execute the notebook cells step-by-step to preprocess data, train the models, and view performance metrics.
 
 ## Usage Instructions
- -**Modify the dataset path in the notebook if your dataset is stored locally or on Google Drive.**
- -**Fine-tune the hyperparameters in the code if needed to explore further improvements.**
- -**Use the visualizations provided in the notebook to interpret the results better.**
+ - **Modify the dataset path in the notebook if your dataset is stored locally or on Google Drive**
+ - **Fine-tune the hyperparameters in the code if needed to explore further improvements**
+ - **Use the visualizations provided in the notebook to interpret the results better**
 
 ## Results
 The models demonstrated excellent performance with high accuracy, indicating their effectiveness in identifying fake news.
 
 ## Future Work
--**Incorporate deep learning models such as LSTMs and Transformers for comparison.**
--**Experiment with additional feature engineering techniques for improved accuracy.**
+- **Incorporate deep learning models such as LSTMs and Transformers for comparison**
+- **Experiment with additional feature engineering techniques for improved accuracy**
 
 ## Acknowledgments
--**This project uses publicly available datasets for machine learning experiments.**
--**Special thanks to the developers of libraries like NLTK, Scikit-learn, and Pandas for making this project possible.**
+- **This project uses publicly available datasets for machine learning experiments**
+- **Special thanks to the developers of libraries like NLTK, Scikit-learn, and Pandas for making this project possible**
 
  
