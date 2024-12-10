@@ -21,7 +21,7 @@ The following Python libraries were used in this project:
 - **Scikit-learn**: For building and evaluating machine learning models.
 - **Pandas**: For data manipulation and analysis.
 - **NumPy**: For numerical computations.
-- **Matplotlib/Seaborn**: For data visualization.
+- **Matplotlib**: For data visualization.
 
 ---
 
